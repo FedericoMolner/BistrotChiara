@@ -5,15 +5,25 @@ Studente: Federico Molner
  Cliente: Sig.ra Chiara Padelli - Bistrot vegetariano
  Obiettivo: Sistema per gestire menu e prenotazioni in 15 giorni
 Come è organizzato il progetto
+
 bistrot-chiara/
+
 ├── README.md (questo file)
+
 ├── docs/
+
 │   ├── database-schema.md
+
 │   └── come-usare-il-sistema.md
+
 └── src/ (codice Java Spring Boot)
+
     ├── controller/
+    
     ├── service/
+    
     └── model/
+
 
 ## Timeline di Sviluppo
 
