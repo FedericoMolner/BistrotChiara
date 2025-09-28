@@ -124,6 +124,7 @@ BOARD - Le 10 Cose da Fare
 - [ ] Deploy su server
 - [ ] Training per Chiara
 
+
 Tecnologie che uso
 Backend: Java + Spring Boot (per imparare framework enterprise)
 
@@ -132,6 +133,7 @@ Database: MySQL (affidabile per ristoranti)
 Frontend: HTML + CSS + JavaScript semplice (compatibile ovunque)
 
 Deploy: Server Linux basic (economico per piccolo bistrot)
+
 
 Cosa imparo durante il progetto
 Spring Boot per backend robusto
@@ -143,6 +145,7 @@ JavaScript per calendario interattivo
 CSS responsive per mobile
 
 Deploy applicazione reale
+
 
 File principali che creo
 MenuController.java - gestisce richieste menu
@@ -157,6 +160,7 @@ menu-pubblico.html - menu per clienti
 
 prenota.html - form prenotazione online
 
+
 Note per ricordarmi
 Fare backup database ogni giorno
 
@@ -168,6 +172,7 @@ Chiedere feedback a Chiara dopo ogni settimana
 
 Documentare quello che non funziona per imparare
 
+
 Problemi che potrei avere
 Calendario JavaScript: Potrebbe essere difficile, ma ci sono librarie pronte
 
@@ -176,6 +181,7 @@ Controllo disponibilità: Logica un po' complessa, devo ragionarci bene
 Design responsive: Non sono bravo con CSS, ma Bootstrap mi aiuta
 
 Deploy: Prima volta che metto online un'app, potrei aver bisogno di aiuto
+
 
 Contatti progetto
 Studente: Federico Molner - federico.molner@edu-its.it
