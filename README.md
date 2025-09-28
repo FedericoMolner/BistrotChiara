@@ -126,37 +126,64 @@ BOARD - Le 10 Cose da Fare
 
 Tecnologie che uso
 Backend: Java + Spring Boot (per imparare framework enterprise)
+
 Database: MySQL (affidabile per ristoranti)
+
 Frontend: HTML + CSS + JavaScript semplice (compatibile ovunque)
+
 Deploy: Server Linux basic (economico per piccolo bistrot)
+
 Cosa imparo durante il progetto
 Spring Boot per backend robusto
+
 Gestione database con JPA
+
 JavaScript per calendario interattivo
+
 CSS responsive per mobile
+
 Deploy applicazione reale
+
 File principali che creo
 MenuController.java - gestisce richieste menu
+
 PrenotazioneController.java - gestisce prenotazioni
+
 menu-admin.html - pannello gestione piatti
+
 calendario-prenotazioni.html - vista prenotazioni
+
 menu-pubblico.html - menu per clienti
+
 prenota.html - form prenotazione online
+
 Note per ricordarmi
 Fare backup database ogni giorno
+
 Testare sempre su telefono, non solo computer
+
 Tenere credenziali sicure (non metterle su Git!)
+
 Chiedere feedback a Chiara dopo ogni settimana
+
 Documentare quello che non funziona per imparare
+
 Problemi che potrei avere
 Calendario JavaScript: Potrebbe essere difficile, ma ci sono librarie pronte
+
 Controllo disponibilità: Logica un po' complessa, devo ragionarci bene
+
 Design responsive: Non sono bravo con CSS, ma Bootstrap mi aiuta
+
 Deploy: Prima volta che metto online un'app, potrei aver bisogno di aiuto
+
 Contatti progetto
 Studente: Federico Molner - federico.molner@edu-its.it
+
  Cliente: Chiara Padelli - Bistrot vegetariano
+ 
  Repo GitHub: bistrot-chiara
+ 
  Deadline: 15 giorni lavorativi dal kickoff
 
 Ultimo aggiornamento: [24/09/2025] - Stato: [completate X/10 attività]
