@@ -43,3 +43,73 @@ BOARD - Le 10 Cose da Fare
 | 10 | Test e Deploy | ⬜ | 15 | Mettere online |
 
 **Legenda:** ⬜ Da fare • 🟡 In corso • 🟢 Fatto • 🔴 Problema
+
+## Dettagli Task
+
+### 1. Setup Progetto (Giorni 1-2)
+- [ ] Installare Java, MySQL, IDE
+- [ ] Creare progetto Spring Boot
+- [ ] Collegare database MySQL
+- [ ] Pagina test "Hello World"
+- [ ] Setup Git e primo commit
+
+### 2. Database Piatti (Giorni 3-4)
+- [ ] Tabella piatti (id, nome, prezzo, descrizione, disponibile)
+- [ ] Tabella categorie (Antipasti, Primi, ecc.)
+- [ ] Collegamento piatti → categorie
+- [ ] Dati di prova (5-6 piatti)
+- [ ] Test salvataggio/lettura
+
+### 3. Gestione Menu (Giorni 5-7)
+- [ ] Form "Aggiungi piatto"
+- [ ] Lista piatti modificabile
+- [ ] Bottone elimina piatto
+- [ ] Toggle disponibile/non disponibile
+- [ ] Gestione categorie
+
+### 4. Menu Clienti (Giorno 7)
+- [ ] Pagina /menu pubblica
+- [ ] Menu per categorie
+- [ ] Design responsive
+- [ ] Solo piatti disponibili
+- [ ] Prezzi visibili
+
+### 5. Database Prenotazioni (Giorni 8-9)
+- [ ] Tabella tavoli (id, numero, posti_max)
+- [ ] Tabella prenotazioni (id, cliente, data, ora, persone, tavolo)
+- [ ] Configurazione tavoli bistrot
+- [ ] Test prenotazioni di prova
+
+### 6. Sistema Prenotazioni (Giorni 10-12)
+- [ ] Form "Nuova prenotazione"
+- [ ] Controllo disponibilità tavoli
+- [ ] Calendario mensile prenotazioni
+- [ ] Modifica/cancella prenotazioni
+- [ ] Lista prenotazioni giornaliere
+
+### 7. Prenotazioni Online (Giorno 12)
+- [ ] Form pubblico /prenota
+- [ ] Controllo disponibilità real-time
+- [ ] Conferma prenotazione
+- [ ] Integrazione con pannello admin
+
+### 8. Dashboard Admin (Giorno 13)
+- [ ] Homepage navigazione
+- [ ] Box "Prenotazioni oggi"
+- [ ] Box "Piatti attivi"
+- [ ] Collegamenti rapidi
+- [ ] Design tablet-friendly
+
+### 9. Login e Sicurezza (Giorno 14)
+- [ ] Pagina login /admin/login
+- [ ] Credenziali: admin/bistrot2025
+- [ ] Protezione pagine admin
+- [ ] Bottone logout
+- [ ] Timeout sessione
+
+### 10. Test e Deploy (Giorno 15)
+- [ ] Test completo funzioni
+- [ ] Test multi-device
+- [ ] Correzione bug
+- [ ] Deploy su server
+- [ ] Training per Chiara
